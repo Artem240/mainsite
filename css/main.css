@@ -1,0 +1,171 @@
+/* HEADER */
+.nav {
+    margin-top: 35px;
+    align-items: center;
+    display: flex;
+}
+
+.nav p {
+    font-size: 25px;
+    color: #58A9A5;
+    font-weight: 800;
+    margin-left: 10px;
+}
+
+.nav img {
+    width: 37px;
+    height: 45px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 350px;
+}
+
+.menu li a {
+    color: #404242;
+    margin-left: 46px;
+}
+
+.menu-btn {
+    color: #fff;
+    margin-left: auto;
+    border: 1px solid #58A9A5;
+    background-color: #58A9A5;
+    border-radius: 10px;
+    padding: 11px 45px 11px 45px;
+}
+
+.menu a:hover {
+    color: #58A9A5;
+}
+
+/* MAIN */
+
+.main {
+
+}
+
+.main-offer {
+    display: flex;
+}
+
+.offer {
+    margin-top: 130px;
+}
+
+.offer-title {
+    color: #1C2323;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.offer-text {
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    color: #404242;
+}
+
+.offer-btn a {
+    color: #fff;
+    border: 1px solid #58A9A5;
+    background-color: #58A9A5;
+    padding: 11px 45px;
+    border-radius: 15px 15px 15px 0px;
+}
+
+.offer-img-row {
+}
+
+.offer-img {
+
+}
+
+.offer-img-abs {
+    right: 0;
+    margin-top: 40px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
+
+
+/* WORK */
+
+.offer-work {
+    padding-top: 140px;
+    text-align: center;
+}
+
+.work-title {
+    color: #1C2323;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.work-text {
+    color: #404242;
+    margin-bottom: 50px;
+}
+
+.work-img {
+
+}
+
+.work-img img {
+    width: 800px;
+    height: 200px;
+}
+
+.work-img-block {
+    display: flex;
+
+}
+
+.work-img-text {
+    width: 100%;
+    color: #486958;
+    align-items: center;
+    border: 1px solid #CCF0E6;
+    background-color: #CCF0E6;
+    border-radius: 0px 10px 10px 0px;
+    height: 200px;
+}
+
+.work-text-img {
+    padding: 50px;
+}
+
+.work-offer-block {
+    display: flex;
+    padding-top: 50px; 
+}
+
+.work-offer-img {
+    
+}
+
+.work-offer-img img {
+    width: 350px;
+    height: 350px;
+}
+
+.offer-work-block {
+    margin-left: 130px;
+    margin-bottom: 120px;
+}
+
+.work-offer-title {
+    font-weight: 800;
+    color: #1C2323;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.work-offer-text {
+    color: #486958;
+    font-size: 14px;
+}
